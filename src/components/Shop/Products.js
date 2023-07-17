@@ -5,13 +5,13 @@ const DUMMY_PRODUCTS = [
   {
     id: "p1",
     price: 6,
-    title: "my book",
+    title: "My book",
     description: "This is a first product - amazing!",
   },
   {
     id: "p2",
     price: 5,
-    title: "my book #2",
+    title: "My book #2",
     description: "This is a second product!",
   },
 ];
